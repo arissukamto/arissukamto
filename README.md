@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Aris
+# 👋 Hi, I'm Aris Sukamto
 
 I am a Quality Assurance professional with 3.6 years of experience in manual and automated testing of web applications, mobile applications, and APIs. I have hands-on experience in designing and executing test cases, performing functional, regression, and integration testing, and validating system functionality across multiple platforms.
 
