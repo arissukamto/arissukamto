@@ -1,7 +1,11 @@
 ### 👋 Hi, I'm Aris
 
-- 👀 I’m interested in Automation and Manual Software Testing for Web-based, Android and API Testing
-- 🌱 I’ve experience on Playwright, Robot Framework (Selenium) and Cypress for web testing.  
-  For performance API testing, I used K6, JMeter and Newman.
-- 💞️ I’m happy to collaborate on a project that uses automated testing
-- 📫 Reach me on email: aris@email.com
+💻 QA Engineer | Automation & Manual Testing
+
+- 👀 Interested in Web, Mobile, and API Testing
+- 🌱 Experienced in WebdriverIO, Cypress, Katalon Studio, Newman
+- ⚡ Performance Testing using K6, JMeter
+- 🤝 Open to collaboration on automation testing projects
+- 📫 Reach me: ariessukamto10@email.com
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/usernamekamu)
