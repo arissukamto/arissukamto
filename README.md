@@ -1,6 +1,7 @@
-### 👋 Hi, I'm Aris
-
+## 👋 Hi, I'm Aris
 💻 QA Engineer | Automation & Manual Testing
+
+I am a Quality Assurance professional with 3.6 years of experience in manual and automated testing of web applications, mobile applications, and APIs. I have hands-on experience in designing and executing test cases, performing functional, regression, and integration testing, and validating system functionality across multiple platforms. I am proficient in test planning, test execution, and defect tracking. I collaborate effectively with cross-functional teams throughout the Software Development Life Cycle (SDLC) to ensure high-quality, scalable, and reliable software delivery.
 
 🛠 Manual Testing: Design & execute test cases for API, web, and mobile apps  
 🤖 Automation Testing: Build & maintain scripts (Cypress, WebdriverIO, Katalon)  
