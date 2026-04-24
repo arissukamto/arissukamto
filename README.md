@@ -19,6 +19,6 @@ I am a Quality Assurance professional with 3.6 years of experience in manual and
 - Cloud Testing
 
  ### 📫 Connect with me
- Reach me: ariessukamto10@email.com
+ Reach me: ariessukamto10@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aris-sukamto/)
