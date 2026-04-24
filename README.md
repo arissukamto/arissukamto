@@ -2,16 +2,16 @@
 
 💻 QA Engineer | Automation & Manual Testing
 
-🛠  Manual Testing : Design & execute test cases for API, web and mobile apps  
-🤖 Automated Testing : Build and maintain automation (Cypress, WedriverIO, Katalon)  
-🌐 API Testing : Validate APIs using Postman  
-📱 Mobile Testing : Test Android & iOS apps (Manual & Automation)  
-📈 Log Monitoring & Analysis : using (ELK Stack: Elasticsearch, Logstash, Kibana) 
-🗄  Validation database : Testing using SQL (DBeaver) 
-⚡ Performance Testing using K6, JMeter
-🔍 Defect Tracking: Report & track issues using JIRA, collaborate with dev teams
-📊 Project Management : Manage tasks and QA progress with JIRA  
-📑 Documentation : Create test case & docs using Google Spreadsehet  
+🛠 Manual Testing: Design & execute test cases for API, web, and mobile apps  
+🤖 Automation Testing: Build & maintain scripts (Cypress, WebdriverIO, Katalon)  
+🌐 API Testing: Validate APIs using Postman  
+📱 Mobile Testing: Test Android & iOS apps (manual & automation)  
+📈 Log Monitoring & Analysis: ELK Stack (Elasticsearch, Logstash, Kibana)  
+🗄 Database Testing & Validation: SQL (DBeaver)  
+⚡ Performance Testing: K6, JMeter  
+🔍 Defect Tracking: Report & track issues using Jira, collaborate with dev teams  
+📊 Project Management: Manage QA tasks & progress using Jira  
+📑 Documentation: Create test cases & documentation using Google Sheets   
 
 - 📫 Reach me: ariessukamto10@email.com
 
