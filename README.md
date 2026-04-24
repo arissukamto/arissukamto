@@ -8,4 +8,6 @@
 - 🤝 Open to collaboration on automation testing projects
 - 📫 Reach me: ariessukamto10@email.com
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/usernamekamu)
+ ### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aris-sukamto/)
